@@ -1,4 +1,5 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
+
 # Portfólio "Poorflix - Identidade Visual"
 
 Este portfólio apresenta as escolhas de cores, tipografia e elementos visuais da marca "Poorflix", uma proposta acessível e bem-humorada inspirada na estética do entretenimento digital.
@@ -31,3 +32,5 @@ Elementos Visuais
 
 - **Logotipo com apenas a letra “P”** (ideal para ícones e favicon)
 - **Versão monocromática** (em preto ou branco) para materiais impressos
+
+ALUNA: Evellyn Cleyciane Sousa Lima - 3º DESENVOLVIMENTO DE SISTEMA
