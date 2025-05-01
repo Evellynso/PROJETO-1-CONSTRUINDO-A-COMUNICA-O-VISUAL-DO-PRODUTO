@@ -1,10 +1,9 @@
 # PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
-
 # Portfólio "Poorflix - Identidade Visual"
 
 Este portfólio apresenta as escolhas de cores, tipografia e elementos visuais da marca "Poorflix", uma proposta acessível e bem-humorada inspirada na estética do entretenimento digital.
 
-Cores
+## 🎨 Cores
 
 | Cor                   | Código Hexadecimal | Justificativa                                                                                                                                      |
 |-----------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,7 +19,7 @@ Cores
 |--------------|-------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | Montserrat   | Bold e Italic     | Títulos, logotipo e textos auxiliares  | Moderna e geométrica, remete à estética digital. A versão bold transmite força e presença no logotipo. A versão itálica adiciona leveza e dinamismo. |
 
-Elementos Visuais
+## 🖼️ Elementos Visuais
 
 ### 1. Logotipo Principal:
 
@@ -32,5 +31,6 @@ Elementos Visuais
 
 - **Logotipo com apenas a letra “P”** (ideal para ícones e favicon)
 - **Versão monocromática** (em preto ou branco) para materiais impressos
+
 
 ALUNA: Evellyn Cleyciane Sousa Lima - 3º DESENVOLVIMENTO DE SISTEMA
