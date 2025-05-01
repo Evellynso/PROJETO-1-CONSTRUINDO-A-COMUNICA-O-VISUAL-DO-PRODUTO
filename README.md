@@ -1,4 +1,4 @@
-# PROJETO-1-CONSTRUINDO-A-COMUNICA-O-VISUAL-DO-PRODUTO
+# PROJETO-1-CONSTRUINDO-A-COMUNICACAO-VISUAL-DO-PRODUTO
 # Portfólio "Poorflix - Identidade Visual"
 
 Este portfólio apresenta as escolhas de cores, tipografia e elementos visuais da marca "Poorflix", uma proposta acessível e bem-humorada inspirada na estética do entretenimento digital.
@@ -33,4 +33,6 @@ Este portfólio apresenta as escolhas de cores, tipografia e elementos visuais d
 - **Versão monocromática** (em preto ou branco) para materiais impressos
 
 
-ALUNA: Evellyn Cleyciane Sousa Lima - 3º DESENVOLVIMENTO DE SISTEMA
+ALUNA: Evellyn Cleyciane Sousa Lima - 3º DESENVOLVIMENTO DE SISTEMA 
+
+
